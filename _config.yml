@@ -1,7 +1,8 @@
-theme: jekyll-theme-MINIMAL
+remote_theme: pages-themes/cayman@v0.2.0
 title: Notas del curso 
 author: Diego Gallegos Hernández a223214226
 description: Aqui se subiran las notas del curso de Inteligencia Artificial.
+
 
 
 
