@@ -1,3 +1,5 @@
+El contenido esta compuesto principalmente por apuntes de clase y extracciones de diferentes fuentes, en su mayoria el libro de Peter Norvig "Artificial Intelligence: A modern approach".
+
 ## Inteligencia Artificial
 ###  Introducción 
 
